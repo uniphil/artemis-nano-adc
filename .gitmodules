@@ -1,3 +1,4 @@
 [submodule "AmbiqSuiteSDK"]
 	path = AmbiqSuiteSDK
 	url = git@github.com:sparkfun/AmbiqSuiteSDK.git
+	ignore = dirty
