@@ -98,7 +98,7 @@ PROJECTPATH		:= .
 TARGET := hi_adc
 COMPILERNAME := gcc
 PROJECT := hi_adc_gcc
-CONFIG := gcc/bin
+CONFIG := bin
 
 #******************************************************************************
 #
